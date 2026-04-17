@@ -17,3 +17,4 @@ start chrome https://beta.omenx.com/en/events
 start chrome https://testnet.byzanlink.com/vaults/byzanlink-blue-chip-yield-vault?ref=apparent-white-ocelot
 start chrome https://t.me/EverythingTradeOfficial_bot?start=SBT_GaoGao
 start chrome https://quest.unicity.network?ref=l6paVFwf
+start chrome https://app.fairshares.io/waitlist?AccessCode=tavgrlnz
