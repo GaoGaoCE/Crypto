@@ -19,3 +19,4 @@ start chrome https://t.me/EverythingTradeOfficial_bot?start=SBT_GaoGao
 start chrome https://quest.unicity.network?ref=l6paVFwf
 start chrome https://app.fairshares.io/waitlist?AccessCode=tavgrlnz
 start chrome https://testnet.litvm.com/
+start chrome https://strikerobot.ai/mindshare-challenge
