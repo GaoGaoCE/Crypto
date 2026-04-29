@@ -21,3 +21,4 @@ start chrome https://app.fairshares.io/waitlist?AccessCode=tavgrlnz
 start chrome https://testnet.litvm.com/
 start chrome https://strikerobot.ai/mindshare-challenge
 start chrome https://testnet.sodex.com/trade/spot/BTC_USDC
+start chrome https://task.simplechain.com?inviteCode=9v65ncxc54f
